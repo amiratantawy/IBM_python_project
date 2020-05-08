@@ -18,19 +18,19 @@ Estimated Time Needed: 180 min
 
 #### Question 1: Create a dataframe that contains the GDP data and display it
 
-![Answer]("https://github.com/amiratantawy/IBM_python_project/blob/master/project-1.png")
+![Answer]("https://github.com/amiratantawy/IBM_python_project/blob/master/project-1.png?raw=true")
 
 #### Question 2: Create a dataframe that contains the unemployment data and display it
 
-![Answer]("https://github.com/amiratantawy/IBM_python_project/blob/master/project-2.png")
+![Answer]("https://github.com/amiratantawy/IBM_python_project/blob/master/project-2.png?raw=true")
 
 #### Question 3: Display a dataframe where unemployment was greater than 8.5%
 
-![Answer]("https://github.com/amiratantawy/IBM_python_project/blob/master/project-3.png")
+![Answer]("https://github.com/amiratantawy/IBM_python_project/blob/master/project-3.png?raw=true")
 
 #### Question 4: Use the function make_dashboard to make a dashboard
 
-![Answer]("https://github.com/amiratantawy/IBM_python_project/blob/master/project-4.png")
+![Answer]("https://github.com/amiratantawy/IBM_python_project/blob/master/project-4.png?raw=true")
 
 ### References :
 1) Economic Research at the St. Louis Fed : Civilian Unemployment Rate
