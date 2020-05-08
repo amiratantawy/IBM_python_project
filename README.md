@@ -16,6 +16,22 @@ Question 4: Use the function make_dashboard to make a dashboard <br>
 (Optional not marked) Save the dashboard on IBM cloud and display it <br>
 Estimated Time Needed: 180 min
 
+#### Question 1: Create a dataframe that contains the GDP data and display it
+
+![Answer]("https://github.com/amiratantawy/IBM_python_project/blob/master/project-1.png")
+
+#### Question 2: Create a dataframe that contains the unemployment data and display it
+
+![Answer]("https://github.com/amiratantawy/IBM_python_project/blob/master/project-2.png")
+
+#### Question 3: Display a dataframe where unemployment was greater than 8.5%
+
+![Answer]("https://github.com/amiratantawy/IBM_python_project/blob/master/project-3.png")
+
+#### Question 4: Use the function make_dashboard to make a dashboard
+
+![Answer]("https://github.com/amiratantawy/IBM_python_project/blob/master/project-4.png")
+
 ### References :
 1) Economic Research at the St. Louis Fed : Civilian Unemployment Rate
 2) Data Packaged Core Datasets
