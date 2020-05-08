@@ -8,12 +8,12 @@ Gross domestic product (GDP) is a measure of the market value of all the final g
 
 ### Table of Contents
 
-Define a Function that Makes a Dashboard
-Question 1: Create a dataframe that contains the GDP data and display it
-Question 2: Create a dataframe that contains the unemployment data and display it
-Question 3: Display a dataframe where unemployment was greater than 8.5%
-Question 4: Use the function make_dashboard to make a dashboard
-(Optional not marked) Save the dashboard on IBM cloud and display it
+Define a Function that Makes a Dashboard <br>
+Question 1: Create a dataframe that contains the GDP data and display it <br>
+Question 2: Create a dataframe that contains the unemployment data and display it <br>
+Question 3: Display a dataframe where unemployment was greater than 8.5% <br>
+Question 4: Use the function make_dashboard to make a dashboard <br>
+(Optional not marked) Save the dashboard on IBM cloud and display it <br>
 Estimated Time Needed: 180 min
 
 ### References :
